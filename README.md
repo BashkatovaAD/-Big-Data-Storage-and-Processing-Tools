@@ -11,4 +11,4 @@
  - Отчет [пр_05_01](https://github.com/BashkatovaAD/-Big-Data-Storage-and-Processing-Tools/tree/main/practice/pr_05_01.pdf) 
  - Отчет [пр_05_02](https://github.com/BashkatovaAD/-Big-Data-Storage-and-Processing-Tools/tree/main/practice/pr_05_02.pdf) 
  
- Ссылки на colab.research дашборды: [ссылка](https://github.com/BashkatovaAD/-Big-Data-Storage-and-Processing-Tools/tree/main/practice/link.md)
+ Ссылки на colab.research дашборды: [перейти к отчетам](https://github.com/BashkatovaAD/-Big-Data-Storage-and-Processing-Tools/tree/main/practice/link.md)
