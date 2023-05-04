@@ -1,4 +1,4 @@
-# -Big-Data-Storage-and-Processing-Tools
+# Big-Data-Storage-and-Processing-Tools
 Репозиторий практических работ. 
 
 # Отчеты:
