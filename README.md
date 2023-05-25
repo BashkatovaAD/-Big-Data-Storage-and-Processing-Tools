@@ -16,3 +16,5 @@
  
  Ссылки на colab.research дашборды: [перейти к отчетам](https://github.com/BashkatovaAD/-Big-Data-Storage-and-Processing-Tools/tree/main/practice/link.md)
 https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M?resourcekey=0-TLwzfR2O-D2aPitmn5o9VQ
+
+https://colab.research.google.com/drive/14cI4cZCpoLKZsqAVJMJyTurcTG3e_jKE?usp=sharing
