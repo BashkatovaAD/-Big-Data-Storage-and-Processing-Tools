@@ -1,4 +1,7 @@
 # Big-Data-Storage-and-Processing-Tools
+
+Use this token to access the HTTP API:
+6563578726:AAErCdktLtl4StGHqEN944oNGGrXCXVEwrQ
 Репозиторий практических работ. 
 
 # Отчеты:
